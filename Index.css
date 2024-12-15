@@ -1,0 +1,41 @@
+.hi{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 300px;
+margin-left: 100px;
+    
+}
+.hey{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-top: -310px;
+    margin-bottom: 200px;
+    
+
+}
+.hello{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-left: 1010px;
+ margin-bottom: 800px;
+margin-top: -510px;
+}
+.bye{
+    margin-left: 100px;
+}
+.heyy{
+    margin-left: 100px;
+}
+.hellow{
+    margin-left: 100px;
+}
